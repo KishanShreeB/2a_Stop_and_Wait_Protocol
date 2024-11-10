@@ -8,6 +8,8 @@ To write a python program to perform stop and wait protocol
 4. To send frames to server from the client side.
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
+7. ## NAME:KISHAN SHREE B
+8. ## REG NO:212223100022
 ## PROGRAM
 ## client.py
 ~~~
